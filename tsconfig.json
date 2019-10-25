@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "declaration": true,
+    "declarationDir": "./dist/",
+    "outDir": "dist",
+    "sourceMap": false,
+    "noImplicitAny": true,
+    "target": "es2015"
+  },
+  "include": ["./src"]
+}
